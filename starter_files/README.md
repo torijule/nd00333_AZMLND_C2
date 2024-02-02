@@ -1,9 +1,8 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Operationalizing Machine Learning
 
-*TODO:* 
 This project was completed to satisfy requirements for the Azure Machine Learning Nanodegree offered by Udacity.  I demonstrate registering a dataset, configuring an AutoML job, deploying a ML model, leveraging REST endpoints of said model from Azure Machine Learning Studio.  Using Python SDK in the attached notebook, I then create and publish a ML pipeline.
 
 ## Architectural Diagram
@@ -30,7 +29,7 @@ Then, I enabled application insights.
 ![screenshot6](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/EndpointDetails.png)
 
 The below screenshot shows the resulting output from running the provided logs.py file. 
-*todo* add screenshot
+![screenshot7](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/logsRun.png)
 ![screenshot8](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/ServerRoutes.png)
 ![screenshot9](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/ServerOutput2.png)
 
@@ -45,17 +44,19 @@ I also tested the endpoint via commandline with the provided test data.
 This section is evidence of the resulting ML pipeline generated from the Juypter notebook.
 
 Below is the created pipeline.
-[!screenshot12](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/CompletedPipeline.png)
+![screenshot12](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/CompletedPipeline.png)
 
-[!screenshot13](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineDetails.png)
+![screenshot13](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineDetails.png)
 
-[!screenshot14](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineEndpoint.png)
+![screenshot14](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineEndpoint.png)
 
 Successful pipeline runs
-*todo* add here
+![screenshot15](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/CompletedPipelineRuns.png)
+
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Watch the video!
+![video](https://drive.google.com/file/d/15zk1QGoH9KugChPPTrEfBQncmVJdeB-h/view)
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
