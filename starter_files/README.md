@@ -55,7 +55,8 @@ Successful pipeline runs
 
 
 ## Screen Recording
-Watch the ![video](https://drive.google.com/file/d/15zk1QGoH9KugChPPTrEfBQncmVJdeB-h/view?usp=sharing)
+Watch the video! 
+https://drive.google.com/file/d/15zk1QGoH9KugChPPTrEfBQncmVJdeB-h/view?usp=sharing
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
