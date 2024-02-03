@@ -1,12 +1,10 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Operationalizing Machine Learning
 
 This project was completed to satisfy requirements for the Azure Machine Learning Nanodegree offered by Udacity.  I demonstrate registering a dataset, configuring an AutoML job, deploying a ML model, leveraging REST endpoints of said model from Azure Machine Learning Studio.  Using Python SDK in the attached notebook, I then create and publish a ML pipeline.
 
 ## Architectural Diagram
-*todo* add link
+![archdiag](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/ArchDiag.drawio.png?)
+This diagram was created using Draw.IO
 
 ## Key Steps
 ### Part One: Creating, deploying and leveraging ML model
