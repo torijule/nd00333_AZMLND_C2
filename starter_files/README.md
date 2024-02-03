@@ -6,7 +6,7 @@
 This project was completed to satisfy requirements for the Azure Machine Learning Nanodegree offered by Udacity.  I demonstrate registering a dataset, configuring an AutoML job, deploying a ML model, leveraging REST endpoints of said model from Azure Machine Learning Studio.  Using Python SDK in the attached notebook, I then create and publish a ML pipeline.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+*todo* add link
 
 ## Key Steps
 ### Part One: Creating, deploying and leveraging ML model
@@ -57,6 +57,3 @@ Successful pipeline runs
 ## Screen Recording
 Watch the video! 
 https://drive.google.com/file/d/15zk1QGoH9KugChPPTrEfBQncmVJdeB-h/view?usp=sharing
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
