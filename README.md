@@ -44,12 +44,20 @@ This section is evidence of the resulting ML pipeline generated from the Juypter
 Below is the created pipeline.
 ![screenshot12](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/CompletedPipeline.png)
 
+The RunDetails widget provides a nice gui to monitor job progress.  Here I have included a screenshot at pipeline completion
+![screenshot17](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/RunDetailsCompleted.png)
+
+This illustrates pipeline details from ML Studio.
 ![screenshot13](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineDetails.png)
 
+Published pipeline documentation
 ![screenshot14](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PipelineEndpoint.png)
 
 Successful pipeline runs
 ![screenshot15](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/CompletedPipelineRuns.png)
+
+Evidence of published pipeline REST endpoint
+![screenshot16](https://github.com/torijule/nd00333_AZMLND_C2/blob/master/sample_screenshots/PublishedPipelineREST.png)
 
 
 ## Screen Recording
